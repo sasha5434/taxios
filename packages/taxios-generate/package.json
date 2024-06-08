@@ -1,6 +1,6 @@
 {
   "name": "@simplesmiler/taxios-generate",
-  "version": "0.3.0-alpha.1",
+  "version": "0.3.1-alpha.0",
   "description": "Typed wrapper around axios",
   "keywords": [
     "typescript",
@@ -52,5 +52,5 @@
   "bugs": {
     "url": "https://github.com/simplesmiler/taxios/issues"
   },
-  "gitHead": "d94ed5bbc537494d69d475de4e88321f6b1194c4"
+  "gitHead": "31731644a7b36b9a319e89f92e4bde83de086a89"
 }
